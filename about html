@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Name - About Us</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <!-- Similar to homepage header -->
+    </header>
+
+    <section class="about">
+        <h2>About Us</h2>
+        <!-- Add business story, mission, and team member information here -->
+    </section>
+
+    <!-- Additional sections for showcasing achievements, milestones, etc. -->
+
+    <footer>
+        <p>&copy; 2023 [Business Name]</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
