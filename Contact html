@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Business Name - Contact</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <!-- Similar to homepage header -->
+    </header>
+
+    <section class="contact">
+        <h2>Contact Us</h2>
+        <!-- Add contact form, physical address, and contact details here -->
+    </section>
+
+    <!-- Additional sections for displaying a map, social media links, etc. -->
+
+    <footer>
+        <p>&copy; 2023 [Business Name]</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
